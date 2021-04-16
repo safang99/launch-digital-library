@@ -5,6 +5,10 @@ const WizardsList = (props) => {
     <div>
       <h1>Add a Wizard</h1>
       <form></form>
+      <ul>
+        <li>Wizard 1</li>
+        <li>Gandalf</li>
+      </ul>
     </div>
   )
 }
