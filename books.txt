@@ -1,0 +1,3 @@
+Name of the Wind;200;a story of wizardry and cunning;false
+LOTR;1000;one ring to bind them all;true
+spiderman;24
