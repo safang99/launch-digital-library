@@ -2,10 +2,14 @@ import React from "react"
 
 const WizardsList = (props) => {
   return (
-    <ul>
-      <li>Wizard 1</li>
-      <li>Gandalf</li>
-    </ul>
+    <div>
+      <h1>Add a Wizard</h1>
+      <form></form>
+      <ul>
+        <li>Wizard 1</li>
+        <li>Gandalf</li>
+      </ul>
+    </div>
   )
 }
 
