@@ -7,3 +7,9 @@ CREATE TABLE books(
   description VARCHAR(255),
   fiction BOOLEAN
 );
+
+CREATE TABLE wizards(
+  id SERIAL PRIMARY KEY,
+  title VARCHAR(255) NOT NULL,
+  name VARCHAR(255) NOT NULL
+);
